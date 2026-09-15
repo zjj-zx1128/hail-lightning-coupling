@@ -1,4 +1,5 @@
 # Global Hail–Lightning Coupling
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22766712.svg)](https://doi.org/10.5281/zenodo.22766712)
 
 Code supporting the study:
 
